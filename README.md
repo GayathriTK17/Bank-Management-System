@@ -24,5 +24,3 @@ A simple Bank Management System built using Core Java (OOP) for the backend and 
 - **Architecture** — MVC pattern
 
 ---
-
-## Folder Structure
