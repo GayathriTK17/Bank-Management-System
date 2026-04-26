@@ -50,6 +50,7 @@ A web-based Bank Management System built using Core Java demonstrating all four 
 ## How to Run
 
 Compile - javac -d out src/model/*.java src/service/*.java src/server/*.java
+
 Run - java -cp out server.Main
 
 Open **http://localhost:8080** in your browser.
